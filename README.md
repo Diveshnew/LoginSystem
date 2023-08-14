@@ -16,11 +16,6 @@ A straightforward login system implementation using PHP and Bootstrap. This repo
 4. Configure the database connection in `config.php`.
 5. Launch your development server and access the system.
 
-## Usage
-
-- Access the registration page (`register.php`) to create a new account.
-- After registration, log in using the credentials on the login page (`login.php`).
-
 ---
 
 Created by [Divesh Dhek]
