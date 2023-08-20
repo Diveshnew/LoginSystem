@@ -16,6 +16,10 @@ A straightforward login system implementation using PHP and Bootstrap. This repo
 4. Configure the database connection in `config.php`.
 5. Launch your development server and access the system.
 
----
 
-Created by [Divesh Dhek]
+## Acknowledgments
+
+- The game was created as a part of [#100daysofcode] by [Divesh Dhek].
+- Inspiration for this project came from [ YOUTUBE : @codewithharry].
+
+Feel free to contact me at [workwithdivesh@gmail.com] for any questions or suggestions.
